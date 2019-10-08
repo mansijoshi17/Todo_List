@@ -1,0 +1,38 @@
+body {
+  background-color: #fafafa;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.MuiGrid-root.MuiGrid-align-content-xs-center {
+  display: inline-flex;
+}
+
+h2.MuiTypography-root.MuiTypography-h5.MuiTypography-gutterBottom {
+  padding: 16px;
+}
+.MuiCardContent-root {
+  padding-bottom: 0px !important;
+  padding: 0px !important;
+}
